@@ -1,0 +1,1 @@
+Extract the zip file first then open project file with visual basic 6.
