@@ -3,6 +3,7 @@ This is a simple 2D game based on image position and visual illusion. Coded in V
 Firstly, Extract the zip file and then open project file with visual basic 6.
 
 Screen Shot:
+
 <img src="1.jpg">
 
 Information:
